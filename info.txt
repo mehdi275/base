@@ -1,0 +1,15 @@
+# Base Project 
+
+This is my base repository for future projects and activities. 
+
+## About 
+- Created for development and testing purposes. 
+- Will be updated regularly.
+
+## Future Plans
+- Adding different project templates 
+- Experimenting with new technologies 
+- Building various applications
+
+---
+Last updated: May 2026
